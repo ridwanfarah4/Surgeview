@@ -1,0 +1,19 @@
+<!-- Save this as: public/logo.svg -->
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wave/Surge icon -->
+  <path d="M8 28C8 28 12 20 16 20C20 20 20 28 24 28C28 28 28 20 32 20C36 20 40 28 40 28" 
+        stroke="currentColor" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"
+        fill="none"/>
+  
+  <!-- Surgeview text -->
+  <text x="48" y="26" 
+        font-family="system-ui, -apple-system, sans-serif" 
+        font-size="20" 
+        font-weight="700" 
+        fill="currentColor">
+    Surgeview
+  </text>
+</svg>
