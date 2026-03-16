@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # <SurgeView>
+=======
+# <YOUR_APP_NAME>
+>>>>>>> d3b45057999b32f0e5b8730793487b12f202b761
 
 Built with [Wasp](https://wasp.sh), based on the [Open Saas](https://opensaas.sh) template.
 
